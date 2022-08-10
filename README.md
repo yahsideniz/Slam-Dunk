@@ -11,7 +11,7 @@
 - Oyunun belli bölümünde sınırlı süresi olan özellikler ortaya çıkmaktadır.
 
 
-### Oyun içi görseller
+### Oyun Görselleri
 
 ![Level 1](https://user-images.githubusercontent.com/89543672/184006974-2719e1b7-8aa5-4da6-b137-3595aecce90c.png)
 ![Level 2](https://user-images.githubusercontent.com/89543672/184006975-dc709a3f-6edc-4ba7-91c9-211f39b0940d.png)
